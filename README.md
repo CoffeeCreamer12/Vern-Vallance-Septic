@@ -25,4 +25,4 @@ Just open `index.html` in any web browser — no server required.
 Vern Vallance Septic Service
 989 Honeoye Falls #6 Rd, Rush, NY 14543
 Phone: 585.624.1440
-Hours: Mon–Fri 7am–5pm · Emergency service 24/7
+Hours: Mon–Fri 8:00am–5:00pm (ET)
